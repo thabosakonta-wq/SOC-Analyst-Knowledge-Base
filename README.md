@@ -14,7 +14,7 @@ README
 
 ✅ Chapter 6 – NIST Incident Response
 
-⬜ Chapter 7 – CIA Triad
+✅ Chapter 7 – CIA Triad
 
 ⬜ Chapter 8 – Zero Trust
 

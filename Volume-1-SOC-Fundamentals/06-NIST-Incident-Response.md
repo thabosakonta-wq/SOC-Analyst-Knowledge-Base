@@ -1,4 +1,17 @@
-becomes stronger after an incident.
+# SOC Analyst Knowledge Base
+
+A structured cybersecurity handbook designed to document the knowledge, concepts, tools, and methodologies used by Security Operations Center (SOC) Analysts.
+
+This repository combines theory, practical examples, industry frameworks, and Microsoft security technologies to support continuous learning, interview preparation, and real-world SOC operations.
+
+## Who is this for?
+
+- Aspiring SOC Analysts
+- Blue Team professionals
+- Cybersecurity students
+- Microsoft SC-200 learners
+- Threat Hunters
+- Detection Engineers
 
 ---
 
