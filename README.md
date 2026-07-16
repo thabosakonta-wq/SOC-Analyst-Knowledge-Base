@@ -10,7 +10,7 @@ README
 
 ✅ Chapter 4 – SOC Roles
 
-⬜ Chapter 5 – Incident Lifecycle
+✅ Chapter 5 – Incident Lifecycle
 
 ⬜ Chapter 6 – NIST Incident Response
 
