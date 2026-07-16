@@ -16,7 +16,7 @@ README
 
 ✅ Chapter 7 – CIA Triad
 
-⬜ Chapter 8 – Zero Trust
+✅ Chapter 8 – Zero Trust
 
 ⬜ Chapter 9 – Cyber Kill Chain
 
