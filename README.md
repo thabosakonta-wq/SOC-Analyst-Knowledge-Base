@@ -12,7 +12,7 @@ README
 
 ✅ Chapter 5 – Incident Lifecycle
 
-⬜ Chapter 6 – NIST Incident Response
+✅ Chapter 6 – NIST Incident Response
 
 ⬜ Chapter 7 – CIA Triad
 
