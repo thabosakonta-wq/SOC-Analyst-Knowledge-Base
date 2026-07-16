@@ -1,48 +1,59 @@
+# Real-World Example
+
+An employee attempts to sign in from a new country using an unmanaged device.
+
 Zero Trust policies:
 
 1. Detect the unusual sign-in.
-2. Require MFA.
+2. Require Multi-Factor Authentication (MFA).
 3. Evaluate device compliance.
-4. Block access if risk is too high.
-5. Generate an alert for the SOC.
+4. Assess the user's sign-in risk.
+5. Block or restrict access if the calculated risk exceeds organizational policy.
+6. Generate an alert for the Security Operations Center (SOC).
 
-The SOC Analyst investigates the event and determines whether it is legitimate or malicious.
+The SOC Analyst investigates the event by reviewing authentication logs, device information, user activity, and related alerts to determine whether the sign-in is legitimate or malicious.
 
 ---
 
 # Benefits of Zero Trust
 
+Implementing a Zero Trust security model provides several advantages:
+
 - Stronger identity protection
 - Reduced attack surface
-- Better visibility
-- Continuous monitoring
-- Improved incident response
-- Protection against credential theft
+- Continuous verification of users and devices
+- Improved visibility across the environment
+- Faster threat detection and response
+- Better protection against credential theft
+- Reduced impact of compromised accounts
+- Support for regulatory and compliance requirements
 
 ---
 
 # Key Takeaways
 
-- Never trust by default.
-- Verify every access request.
-- Apply least privilege.
-- Assume attackers may already be present.
-- Continuous monitoring is essential.
+- Never trust any user, device, or application by default.
+- Verify every access request before granting access.
+- Apply the principle of least privilege.
+- Assume attackers may already be present within the environment.
+- Continuously monitor identities, devices, and network activity.
+- Zero Trust strengthens an organization's overall security posture.
 
 ---
 
 # Review Questions
 
-1. What is the primary principle of Zero Trust?
-2. What does "least privilege" mean?
-3. Why does Zero Trust assume breach?
-4. Name three Zero Trust technologies.
-5. How does Zero Trust support SOC Analysts?
+1. What is the primary principle of the Zero Trust security model?
+2. Explain the principle of least privilege.
+3. Why does Zero Trust operate under the assumption of breach?
+4. Name at least three technologies commonly used to implement Zero Trust.
+5. How does Zero Trust improve the work of a SOC Analyst?
 
 ---
 
 # Further Reading
 
 - Microsoft Zero Trust Guidance
-- NIST Zero Trust Architecture (SP 800-207)
+- NIST SP 800-207: Zero Trust Architecture
 - Microsoft Security Documentation
+- Microsoft Entra ID Documentation
