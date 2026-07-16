@@ -1,4 +1,4 @@
-- Brute Force
+✅ Chapter 4 – SOC Roles- Brute Force
 - Privilege Escalation
 - Insider Threat
 - Impossible Travel
