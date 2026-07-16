@@ -1,4 +1,31 @@
-✅ Chapter 4 – SOC Roles- Brute Force
+README
+
+## Current Progress
+
+✅ Chapter 1 – Introduction
+
+✅ Chapter 2 – What is a SOC?
+
+✅ Chapter 3 – SOC Tiers
+
+✅ Chapter 4 – SOC Roles
+
+⬜ Chapter 5 – Incident Lifecycle
+
+⬜ Chapter 6 – NIST Incident Response
+
+⬜ Chapter 7 – CIA Triad
+
+⬜ Chapter 8 – Zero Trust
+
+⬜ Chapter 9 – Cyber Kill Chain
+
+⬜ Chapter 10 – MITRE ATT&CK
+
+
+## Quick Reference Notes
+
+- Brute Force
 - Privilege Escalation
 - Insider Threat
 - Impossible Travel
